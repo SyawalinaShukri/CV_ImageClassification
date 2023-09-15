@@ -35,7 +35,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Syawalina
+Syawalina
 
 Project Link: [https://github.com/SyawalinaShukri/CV_ImageClassification](https://github.com/SyawalinaShukri/CV_ImageClassification)
 

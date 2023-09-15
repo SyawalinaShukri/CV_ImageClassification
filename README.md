@@ -48,7 +48,7 @@ Project Link: [https://github.com/SyawalinaShukri/CV_ImageClassification](https:
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Download Dataset](!wget https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/5y9wdsg2zt-2.zip)
+* [Download Dataset](https://prod-dcd-datasets-cache-zipfiles.s3.eu-west-1.amazonaws.com/5y9wdsg2zt-2.zip)
 * [Mendeley Data](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
 * [TenserFlow](https://www.tensorflow.org/tutorials/images/transfer_learning)
 

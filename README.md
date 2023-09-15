@@ -9,10 +9,19 @@
 * Image Classification
 * Pre-trained Model: Transfer Learning
 * Dataset: Concrete Crack Images for Classification
+
+
+* Folder scripts include the source code files:
+    * cv_image_classification.py - python project file (made in visual studio code)
+    * googleColab_cv_image_classification.ipynb - ipython or jupyter notebook file (made in google colab)
+    * The difference between the .py and .ipynb file is how the data is loaded
+
+* Folder model - include the saved model resulting from the project, assessment1_model.h5
+
 * Folder screenshots - include screenshots of model performance, tensorboard training process and model architecture results
-* cv_image_classification.py - python project file (made in visual studio code)
-* googleColab_cv_image_classification.ipynb - ipython or jupyter notebook file (made in google colab)
-* The difference between the .py and .ipynb file is how the data is loaded
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

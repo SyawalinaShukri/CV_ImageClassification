@@ -19,12 +19,6 @@
 
 * Folder screenshots - include screenshots of model performance, tensorboard training process and model architecture results
 
-* Model architecture:![model_architecture](https://github.com/SyawalinaShukri/CV_ImageClassification/assets/95696153/de3c9669-f3ae-4bea-88b8-096e1f98a268)
-
-
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,6 +55,12 @@ Project Link: [https://github.com/SyawalinaShukri/CV_ImageClassification](https:
 * [Mendeley Data](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
 * [TenserFlow](https://www.tensorflow.org/tutorials/images/transfer_learning)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Model Architecture -->
+## Model Architecture
+* ![model_architecture](https://github.com/SyawalinaShukri/CV_ImageClassification/assets/95696153/de3c9669-f3ae-4bea-88b8-096e1f98a268)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -59,6 +59,13 @@ Project Link: [https://github.com/SyawalinaShukri/CV_ImageClassification](https:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Model Performance -->
+## Model Performance
+* Results after model training
+![evaluation_after_model_training](https://github.com/SyawalinaShukri/CV_ImageClassification/assets/95696153/95beb943-8e82-48a8-8f04-b018049d0e07)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- Model Architecture -->
 ## Model Architecture
 * ![model_architecture](https://github.com/SyawalinaShukri/CV_ImageClassification/assets/95696153/de3c9669-f3ae-4bea-88b8-096e1f98a268)
